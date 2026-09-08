@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Laila Maaloum
 
-🎓 Engineering student specializing in **Data Engineering & Artificial Intelligence** at ENSEM (Morocco).  
+🎓 Software Engineering & Digitalization Engineer specialized in **Data Engineering & Artificial Intelligence** at ENSEM (Morocco).  
 🚀 Passionate about **Machine Learning, Data Engineering, and Generative AI**.  
 💡 Interested in building **data-driven systems**, scalable ML pipelines, and AI-powered applications.
 
@@ -9,7 +9,7 @@
 ## 🔍 About Me
 
 - 🎓 Engineering student in **Software Engineering & Digitalization**
-- 🤖 Focused on **Machine Learning, Data Engineering, and AI Systems**
+- 🤖 Focused on **Machine Learning, Data Engineering & Analytics, and AI Systems**
 - 🧠 Experience with **ML models, data pipelines, and LLM-based applications**
 - 📊 Interested in transforming raw data into actionable insights
 - 🌍 Open to **internships and AI/Data opportunities**
