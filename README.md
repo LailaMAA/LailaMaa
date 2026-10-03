@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-- 🎓 Engineering student in **Software Engineering & Digitalization**
+- 🎓 State Engineer in **Software Engineering & Digitalization**
 - 🤖 Focused on **Machine Learning, Data Engineering & Analytics, and AI Systems**
 - 🧠 Experience with **ML models, data pipelines, and LLM-based applications**
 - 📊 Interested in transforming raw data into actionable insights
